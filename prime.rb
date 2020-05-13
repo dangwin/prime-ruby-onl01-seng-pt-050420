@@ -1,5 +1,5 @@
 def prime?(num)
   counter = 2 
   if num > 1 
-    range = 
+    range = (counter..1-a)
   
