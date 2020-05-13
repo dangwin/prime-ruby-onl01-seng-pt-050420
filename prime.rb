@@ -1,3 +1,4 @@
-def prime?()
+def prime?(num)
+  counter = 2 
   
   
